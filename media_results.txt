@@ -1,0 +1,2 @@
+username	post_content	post_location	created_at
+funny_dog	Just saw the funniest dog on my walk.	Charlottesville, VA	2026-10-01 03:38:53
